@@ -28,3 +28,4 @@
 /Users/bradenstevens/RiderProjects/mission5assignment/mission5assignment/obj/Debug/net8.0/mission5assignment.pdb
 /Users/bradenstevens/RiderProjects/mission5assignment/mission5assignment/obj/Debug/net8.0/mission5assignment.genruntimeconfig.cache
 /Users/bradenstevens/RiderProjects/mission5assignment/mission5assignment/obj/Debug/net8.0/ref/mission5assignment.dll
+/Users/bradenstevens/RiderProjects/mission5assignment/mission5assignment/obj/Debug/net8.0/mission5assignment.sourcelink.json
